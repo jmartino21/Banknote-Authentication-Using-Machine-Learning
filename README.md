@@ -29,7 +29,7 @@ This project uses the `data_banknote_authentication.txt` dataset. Ensure the dat
 ### Running the Script
 Execute the script using:
 ```bash
-python banknote_authentication.3.677.py
+banknote_authentication_3.677.py
 ```
 
 The script performs the following:
